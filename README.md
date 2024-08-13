@@ -1,5 +1,5 @@
 ## About
-Respocing landing page created with Flexbox/Grid.
+This is a dynamic store specializing in bicycles and accessories. It features a responsive landing page built with Flexbox/Grid, ensuring a seamless user experience across all devices. Active links and buttons are enhanced with smooth transitions for a polished, interactive feel.
 
 ## Demo
 [DEMO LINK](https://ospyrydonov.github.io/MyBike-landing/)
