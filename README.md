@@ -1,7 +1,31 @@
-This is a landing page based on layot of MyBike website:
-    - [Figma](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&t=uyI9B2dJWfmvYK5i-0)
+## About
+Respocing landing page created with Flexbox/Grid.
 
-Landing created with HTML and SCSS with BEM methodology
+## Demo
+[DEMO LINK](https://ospyrydonov.github.io/MyBike-landing/)
 
-Here the demo link where you can see the see the landing page itself:
-    - [DEMO LINK](https://ospyrydonov.github.io/MyBike-landing/)
+## How to use
+To run this project yoy need:
+  1. Clone this repo:
+
+    `git clone https://github.com/OSpyrydonov/MyBike-landing.git`
+
+  2. Open this repo on your IDE:
+
+    `code MyBike-landing`
+
+  4. Istall depedencies:
+
+    `npm i`
+    
+or
+    
+    `npm install`
+
+  5. Start the project:
+
+    `npm start`
+
+## Stack used:
+HTML
+Scss (BEM)
